@@ -33,10 +33,10 @@
       <div class="card">
         <div class="question-header">
           <span id="qTopicBadge">Topic: Loading...</span>
-          <span id="qCounter">Q 1 of 50</span>
+          <span id="qCounter">Q 1 of 0</span>
         </div>
 
-        <div class="q-text" id="qText">Loading question prompt...</div>
+        <div class="q-text" id="qText">Loading question bank...</div>
 
         <div class="options-grid" id="optionsContainer">
           <!-- Populated dynamically -->
@@ -48,7 +48,7 @@
       </div>
 
       <!-- Footer Action Controls -->
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem; flex-wrap: wrap; gap: 0.5rem;">
         <button id="btnPrev" class="btn">Previous</button>
         <div style="display: flex; gap: 0.5rem;">
           <button id="btnMark" class="btn">Mark for Review</button>
@@ -119,7 +119,7 @@
           </table>
         </div>
 
-        <div style="display: flex; gap: 0.75rem; margin-top: 1.5rem;">
+        <div style="display: flex; gap: 0.75rem; margin-top: 1.5rem; flex-wrap: wrap;">
           <button id="btnReviewPractice" class="btn btn-primary">Review All Solutions</button>
           <button id="btnRetake" class="btn">Retake / Reconfigure Test</button>
         </div>
@@ -154,7 +154,7 @@
         </div>
         <div class="form-group">
           <label>Duration (Minutes)</label>
-          <input type="number" id="settingDuration" min="1" max="180" value="30">
+          <input type="number" id="settingDuration" min="1" max="180" value="45">
         </div>
       </div>
 
@@ -169,11 +169,19 @@
         </div>
       </div>
 
+      <!-- Subject Filter -->
+      <div class="form-group">
+        <label>Subject Filter</label>
+        <select id="settingSubjectFilter">
+          <option value="all">All Subjects</option>
+        </select>
+      </div>
+
+      <!-- Topic Filter -->
       <div class="form-group">
         <label>Topic Selection</label>
         <select id="settingTopicFilter">
-          <option value="all">All Topics (Full Bank)</option>
-          <!-- Dynamic options loaded from data.js -->
+          <option value="all">All Topics</option>
         </select>
       </div>
 
