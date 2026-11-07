@@ -18,6 +18,7 @@
     durationMinutes: 45,
     markCorrect: 1.0,
     markNegative: 0.25,
+    subjectFilter: 'all',
     topicFilter: 'all',
     shuffle: 'no',
     theme: 'light',
@@ -47,7 +48,7 @@
   const elQTopic = document.getElementById('qTopicBadge');
   const elPaletteGrid = document.getElementById('paletteGrid');
 
-  // Modals & Setting Elements
+  // Modals & Settings Selectors
   const modalSettings = document.getElementById('settingsModal');
   const selectTheme = document.getElementById('settingTheme');
   const selectFont = document.getElementById('settingFontSize');
@@ -56,6 +57,7 @@
   const inputDuration = document.getElementById('settingDuration');
   const inputMarkCorrect = document.getElementById('settingMarksCorrect');
   const inputMarkNegative = document.getElementById('settingNegativeMarks');
+  const selectSubject = document.getElementById('settingSubjectFilter');
   const selectTopic = document.getElementById('settingTopicFilter');
   const selectShuffle = document.getElementById('settingShuffleQ');
 
@@ -64,7 +66,7 @@
     loadSettings();
     applyAppearance();
 
-    // Ensure Question Bank is loaded asynchronously if loadQuestionBank is defined
+    // Asynchronously fetch datasets from data.js
     if (typeof window.loadQuestionBank === 'function') {
       try {
         await window.loadQuestionBank();
@@ -73,13 +75,12 @@
       }
     }
 
-    // Fallback check if dataset exists on window
     if (!window.QUESTION_BANK || !window.QUESTION_BANK.length) {
-      elQText.textContent = 'Failed to load questions. Ensure geography_questions.json exists in root.';
+      elQText.textContent = 'No questions loaded. Please verify your JSON datasets.';
       return;
     }
 
-    populateTopicOptions();
+    populateFilterDropdowns();
     bindEvents();
     startNewSession();
   }
@@ -104,9 +105,41 @@
     document.documentElement.setAttribute('data-font-size', state.settings.fontSize);
   }
 
-  function populateTopicOptions() {
-    const topics = Array.from(new Set(window.QUESTION_BANK.map((q) => q.topic))).filter(Boolean);
-    selectTopic.innerHTML = '<option value="all">All Topics (Full Bank - ' + window.QUESTION_BANK.length + ' Qs)</option>';
+  // --- 5. Dynamic Dropdown Population ---
+  function populateFilterDropdowns() {
+    if (!window.QUESTION_BANK || !window.QUESTION_BANK.length) return;
+
+    // 1. Populate Subject Dropdown
+    const subjects = Array.from(new Set(window.QUESTION_BANK.map((q) => q.subject))).filter(Boolean);
+    selectSubject.innerHTML = '<option value="all">All Subjects</option>';
+    subjects.forEach((sub) => {
+      const opt = document.createElement('option');
+      opt.value = sub;
+      opt.textContent = sub;
+      selectSubject.appendChild(opt);
+    });
+
+    selectSubject.value = state.settings.subjectFilter || 'all';
+
+    // 2. Populate Topic Dropdown based on Subject
+    updateTopicDropdown();
+    selectTopic.value = state.settings.topicFilter || 'all';
+
+    // Update topics dynamically when subject selection changes
+    selectSubject.addEventListener('change', () => {
+      updateTopicDropdown();
+    });
+  }
+
+  function updateTopicDropdown() {
+    const chosenSub = selectSubject.value;
+    let pool = window.QUESTION_BANK;
+    if (chosenSub !== 'all') {
+      pool = pool.filter((q) => q.subject === chosenSub);
+    }
+
+    const topics = Array.from(new Set(pool.map((q) => q.topic))).filter(Boolean);
+    selectTopic.innerHTML = `<option value="all">All Topics (${pool.length} Qs)</option>`;
     topics.forEach((t) => {
       const opt = document.createElement('option');
       opt.value = t;
@@ -115,18 +148,21 @@
     });
   }
 
-  // --- 5. Session Generator ---
+  // --- 6. Session Generator ---
   function startNewSession() {
     clearInterval(state.timerInterval);
     state.isSubmitted = false;
 
-    // Filter question set
+    // Dual-stage filter: Subject & Topic
     let pool = [...window.QUESTION_BANK];
+    if (state.settings.subjectFilter !== 'all') {
+      pool = pool.filter((q) => q.subject === state.settings.subjectFilter);
+    }
     if (state.settings.topicFilter !== 'all') {
       pool = pool.filter((q) => q.topic === state.settings.topicFilter);
     }
 
-    // Randomize if requested
+    // Question randomization
     if (state.settings.shuffle === 'yes') {
       pool.sort(() => Math.random() - 0.5);
     }
@@ -137,7 +173,7 @@
     state.statuses = {};
     state.timeElapsed = 0;
 
-    // Initialize all statuses
+    // Reset status flags
     state.activeQuestions.forEach((q) => {
       state.statuses[q.id] = 'unvisited';
     });
@@ -146,18 +182,18 @@
       state.statuses[state.activeQuestions[0].id] = 'unanswered';
     }
 
-    // Timer Setup
+    // Timer configuration
     state.timeRemaining = state.settings.durationMinutes * 60;
     setupTimer();
 
-    // View Switching
+    // UI Workspace Toggle
     elResults.classList.add('hidden');
     elWorkspace.classList.remove('hidden');
     renderQuestion();
     renderPalette();
   }
 
-  // --- 6. Timer Engine ---
+  // --- 7. Timer Engine ---
   function setupTimer() {
     updateTimerUI();
     if (state.settings.timerType === 'none') {
@@ -172,7 +208,7 @@
         state.timeRemaining--;
         if (state.timeRemaining <= 0) {
           clearInterval(state.timerInterval);
-          alert('Exam duration elapsed. Auto-submitting your test.');
+          alert('Time up! Submitting exam automatically.');
           submitTest();
           return;
         }
@@ -193,13 +229,18 @@
     }
   }
 
-  // --- 7. Question & Option Renderer ---
+  // --- 8. Question Renderer ---
   function renderQuestion() {
     const q = state.activeQuestions[state.currentIndex];
-    if (!q) return;
+    if (!q) {
+      elQText.textContent = 'No questions found for the selected filter combination.';
+      elOptions.innerHTML = '';
+      elPaletteGrid.innerHTML = '';
+      return;
+    }
 
     elQCounter.textContent = `Q ${state.currentIndex + 1} of ${state.activeQuestions.length}`;
-    elQTopic.textContent = `${q.topic} • ${q.subtopic || 'General'}`;
+    elQTopic.textContent = `${q.subject || 'GS'} • ${q.topic} • ${q.subtopic || 'General'}`;
     elQText.textContent = q.question;
 
     elOptions.innerHTML = '';
@@ -214,7 +255,7 @@
         optDiv.classList.add('selected');
       }
 
-      // Quiz Practice mode instant feedback
+      // Quiz mode instant feedback
       if (state.settings.mode === 'practice' && selectedIdx !== undefined) {
         if (index === q.correctIndex) {
           optDiv.classList.add('correct');
@@ -227,7 +268,7 @@
       elOptions.appendChild(optDiv);
     });
 
-    // Practice / Review Explanations
+    // Explanation Card Display
     if (state.settings.mode === 'practice' && selectedIdx !== undefined) {
       elExplanation.classList.remove('hidden');
       elExplanation.innerHTML = `<strong>Explanation:</strong> ${q.explanation}`;
@@ -253,7 +294,7 @@
     renderPalette();
   }
 
-  // --- 8. Palette Grid Navigation ---
+  // --- 9. Palette Grid Engine ---
   function renderPalette() {
     elPaletteGrid.innerHTML = '';
     state.activeQuestions.forEach((q, idx) => {
@@ -261,7 +302,7 @@
       btn.className = `palette-btn ${state.statuses[q.id]}`;
       if (idx === state.currentIndex) btn.classList.add('active');
       btn.textContent = idx + 1;
-      btn.title = `Jump to Question ${idx + 1}`;
+      btn.title = `Jump to Q${idx + 1}`;
       btn.addEventListener('click', () => jumpToQuestion(idx));
       elPaletteGrid.appendChild(btn);
     });
@@ -283,7 +324,7 @@
     renderPalette();
   }
 
-  // --- 9. Event Listeners & Actions ---
+  // --- 10. Event Listeners ---
   function bindEvents() {
     document.getElementById('btnNext').addEventListener('click', () => {
       if (state.currentIndex < state.activeQuestions.length - 1) {
@@ -324,7 +365,7 @@
       }
     });
 
-    // Settings Modal Handlers
+    // Settings Modal
     document.getElementById('btnSettings').addEventListener('click', openSettingsModal);
     document.getElementById('btnCloseSettings').addEventListener('click', closeSettingsModal);
     document.getElementById('btnSaveSettings').addEventListener('click', applySettingsFromForm);
@@ -338,7 +379,7 @@
       }
     });
 
-    // Scorecard Post-Actions
+    // Post-Test Actions
     document.getElementById('btnRetake').addEventListener('click', startNewSession);
     document.getElementById('btnReviewPractice').addEventListener('click', () => {
       state.settings.mode = 'practice';
@@ -350,14 +391,16 @@
     });
   }
 
-  // --- 10. Settings Configuration Modal ---
+  // --- 11. Settings Controller ---
   function openSettingsModal() {
     selectMode.value = state.settings.mode;
     selectTimerType.value = state.settings.timerType;
     inputDuration.value = state.settings.durationMinutes;
     inputMarkCorrect.value = state.settings.markCorrect;
     inputMarkNegative.value = state.settings.markNegative;
-    selectTopic.value = state.settings.topicFilter;
+    selectSubject.value = state.settings.subjectFilter || 'all';
+    updateTopicDropdown();
+    selectTopic.value = state.settings.topicFilter || 'all';
     selectShuffle.value = state.settings.shuffle;
     selectTheme.value = state.settings.theme;
     selectFont.value = state.settings.fontSize;
@@ -375,6 +418,7 @@
     state.settings.durationMinutes = parseFloat(inputDuration.value) || 45;
     state.settings.markCorrect = parseFloat(inputMarkCorrect.value) || 1;
     state.settings.markNegative = parseFloat(inputMarkNegative.value) || 0;
+    state.settings.subjectFilter = selectSubject.value;
     state.settings.topicFilter = selectTopic.value;
     state.settings.shuffle = selectShuffle.value;
     state.settings.theme = selectTheme.value;
@@ -386,7 +430,7 @@
     startNewSession();
   }
 
-  // --- 11. Test Evaluation & Analytics ---
+  // --- 12. Analytics & Evaluation Engine ---
   function submitTest() {
     clearInterval(state.timerInterval);
     state.isSubmitted = true;
@@ -419,7 +463,7 @@
     const attemptedCount = correctCount + wrongCount;
     const accuracy = attemptedCount > 0 ? ((correctCount / attemptedCount) * 100).toFixed(1) : '0.0';
 
-    // Update Result Scorecard
+    // Populate Results Interface
     document.getElementById('metricScore').textContent = score.toFixed(2);
     document.getElementById('metricAccuracy').textContent = `${accuracy}%`;
     document.getElementById('metricAttempted').textContent = `${attemptedCount} / ${state.activeQuestions.length}`;
@@ -428,7 +472,7 @@
     const secs = state.timeElapsed % 60;
     document.getElementById('metricTime').textContent = `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
 
-    // Diagnostic Topic Breakdown Table
+    // Populate Topic Diagnostic Table
     const tbody = document.querySelector('#topicAnalysisTable tbody');
     tbody.innerHTML = '';
     Object.keys(topicStats).forEach((topic) => {
@@ -451,6 +495,6 @@
     elResults.classList.remove('hidden');
   }
 
-  // Run on DOM Ready
+  // Boot Application
   document.addEventListener('DOMContentLoaded', init);
 })();
