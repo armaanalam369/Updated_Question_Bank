@@ -1,0 +1,2754 @@
+[
+  {
+    "id": 101,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Khilji Dynasty",
+    "question": "Name the Sultan who banned hoarding of essential commodities in India?",
+    "options": [
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khilji",
+      "Firoz Shah Tughlaq"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alauddin Khilji introduced extensive market-control measures. He prohibited hoarding and regulated prices of essential commodities to maintain low prices for the army and people.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 102,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who was the founder of the Slave Dynasty in India?",
+    "options": [
+      "Iltutmish",
+      "Qutb-ud-din Aibak",
+      "Balban",
+      "Razia Sultan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qutb-ud-din Aibak founded the Mamluk or Slave Dynasty in 1206 after the death of Muhammad Ghori.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 103,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who was the first woman ruler of the Delhi Sultanate?",
+    "options": [
+      "Nur Jahan",
+      "Razia Sultan",
+      "Chand Bibi",
+      "Rani Durgavati"
+    ],
+    "correctIndex": 1,
+    "explanation": "Razia Sultan ruled Delhi from 1236 to 1240 and was the first and only woman to sit on the throne of the Delhi Sultanate.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 104,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who completed the construction of the Qutub Minar?",
+    "options": [
+      "Qutb-ud-din Aibak",
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khilji"
+    ],
+    "correctIndex": 1,
+    "explanation": "Qutb-ud-din Aibak began the construction of Qutub Minar, while Iltutmish completed most of it.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 105,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who introduced the policy of 'Blood and Iron'?",
+    "options": [
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khilji",
+      "Muhammad bin Tughlaq"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sultan Ghiyasuddin Balban followed a strict policy of 'Blood and Iron' to strengthen the authority of the Sultan.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 106,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Khilji Dynasty",
+    "question": "Who introduced the system of 'Dagh' and 'Chehra'?",
+    "options": [
+      "Balban",
+      "Alauddin Khilji",
+      "Sher Shah Suri",
+      "Firoz Shah Tughlaq"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dagh involved branding horses, while Chehra was a descriptive roll of soldiers. These reforms helped prevent fraud in the army.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 107,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Khilji Dynasty",
+    "question": "Which Sultan introduced strict market control measures in Delhi?",
+    "options": [
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khilji",
+      "Sikandar Lodi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alauddin established regulated markets for food grains, cloth, horses, cattle and other commodities.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 108,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Tughlaq Dynasty",
+    "question": "Which Sultan shifted his capital from Delhi to Daulatabad?",
+    "options": [
+      "Alauddin Khilji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Sikandar Lodi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Muhammad bin Tughlaq ordered the transfer of the capital from Delhi to Daulatabad (Devagiri), although the policy was later abandoned.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 109,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Tughlaq Dynasty",
+    "question": "Who introduced token currency in the Delhi Sultanate?",
+    "options": [
+      "Alauddin Khilji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Ibrahim Lodi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Muhammad bin Tughlaq introduced copper token currency with a value equivalent to silver coins, but the experiment failed due to widespread counterfeiting.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 110,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Tughlaq Dynasty",
+    "question": "Who founded the city of Tughlaqabad?",
+    "options": [
+      "Ghiyasuddin Tughlaq",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Balban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ghiyasuddin Tughlaq, founder of the Tughlaq dynasty, built the fortified city of Tughlaqabad near Delhi.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 111,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Tughlaq Dynasty",
+    "question": "Which Sultan is known for establishing numerous canals?",
+    "options": [
+      "Balban",
+      "Alauddin Khilji",
+      "Firoz Shah Tughlaq",
+      "Sikandar Lodi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Firoz Shah Tughlaq constructed several irrigation canals to promote agriculture.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 112,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Lodi Dynasty",
+    "question": "Who founded the Lodi Dynasty?",
+    "options": [
+      "Sikandar Lodi",
+      "Bahlol Lodi",
+      "Ibrahim Lodi",
+      "Daulat Khan Lodi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bahlol Lodi founded the Lodi Dynasty in 1451, the first Afghan dynasty to rule Delhi.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 113,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Lodi Dynasty",
+    "question": "Who was the last Sultan of the Delhi Sultanate?",
+    "options": [
+      "Sikandar Lodi",
+      "Ibrahim Lodi",
+      "Bahlol Lodi",
+      "Daulat Khan Lodi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ibrahim Lodi was defeated by Babur in the First Battle of Panipat in 1526, marking the end of the Delhi Sultanate.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 114,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Battles of Panipat",
+    "question": "The First Battle of Panipat was fought in:",
+    "options": [
+      "1526",
+      "1556",
+      "1565",
+      "1576"
+    ],
+    "correctIndex": 0,
+    "explanation": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in 1526, establishing Mughal rule in India.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 115,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Administration",
+    "question": "Who introduced the 'Iqta' system in the Delhi Sultanate?",
+    "options": [
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khilji",
+      "Firoz Shah Tughlaq"
+    ],
+    "correctIndex": 0,
+    "explanation": "Iltutmish systematically organized the Iqta system, under which revenue assignments were given to officials in return for administrative and military services.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 116,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who was known as 'Lakh Baksh'?",
+    "options": [
+      "Qutb-ud-din Aibak",
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khilji"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qutb-ud-din Aibak was popularly known as Lakh Baksh, meaning 'giver of lakhs', because of his generosity.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 117,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Medieval Architecture",
+    "question": "Who built the Alai Darwaza?",
+    "options": [
+      "Qutb-ud-din Aibak",
+      "Iltutmish",
+      "Alauddin Khilji",
+      "Firoz Shah Tughlaq"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Alai Darwaza was built by Alauddin Khilji in 1311 as an entrance to the Qutub complex.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 118,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Medieval Architecture",
+    "question": "Who built the Hauz Khas reservoir?",
+    "options": [
+      "Iltutmish",
+      "Alauddin Khilji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alauddin Khilji constructed a large reservoir known as Hauz-i-Alai, later associated with Hauz Khas.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 119,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "Which ruler is associated with the construction of the city of Fatehpur Sikri?",
+    "options": [
+      "Humayun",
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akbar developed Fatehpur Sikri as his imperial capital in the 16th century.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 120,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Babur",
+    "question": "Who founded the Mughal Empire in India?",
+    "options": [
+      "Humayun",
+      "Akbar",
+      "Babur",
+      "Sher Shah Suri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Babur founded the Mughal Empire after defeating Ibrahim Lodi at the First Battle of Panipat in 1526.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 121,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Babur",
+    "question": "Babur defeated Rana Sanga in the Battle of Khanwa in:",
+    "options": [
+      "1526",
+      "1527",
+      "1528",
+      "1529"
+    ],
+    "correctIndex": 1,
+    "explanation": "Babur defeated the Rajput confederacy led by Rana Sanga at Khanwa in 1527.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 122,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Babur",
+    "question": "The Battle of Chanderi was fought in:",
+    "options": [
+      "1526",
+      "1527",
+      "1528",
+      "1530"
+    ],
+    "correctIndex": 2,
+    "explanation": "Babur defeated Medini Rai at Chanderi in 1528.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 123,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Literature",
+    "question": "Who wrote the 'Baburnama'?",
+    "options": [
+      "Abul Fazl",
+      "Babur",
+      "Gulbadan Begum",
+      "Jahangir"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Baburnama, Babur's autobiography, was originally written in Chagatai Turkish.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 124,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Sur Dynasty",
+    "question": "Who defeated Humayun at the Battle of Chausa?",
+    "options": [
+      "Sher Shah Suri",
+      "Akbar",
+      "Ibrahim Lodi",
+      "Bahadur Shah"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sher Shah defeated Humayun at Chausa in 1539.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 125,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Sur Dynasty",
+    "question": "The Battle of Kannauj (Bilgram) was fought in:",
+    "options": [
+      "1539",
+      "1540",
+      "1545",
+      "1556"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sher Shah Suri defeated Humayun at Kannauj/Bilgram in 1540, forcing Humayun into exile.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 126,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Sur Dynasty - Administration",
+    "question": "Who introduced the Rupiya as a standard silver coin?",
+    "options": [
+      "Akbar",
+      "Sher Shah Suri",
+      "Alauddin Khilji",
+      "Humayun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sher Shah Suri introduced a standardized silver coin called the Rupiya, an important precursor of the modern rupee.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 127,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Sur Dynasty - Administration",
+    "question": "The Grand Trunk Road was improved and extended extensively by:",
+    "options": [
+      "Akbar",
+      "Sher Shah Suri",
+      "Jahangir",
+      "Aurangzeb"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sher Shah improved the major road connecting Sonargaon in Bengal to the Indus region, later known as the Grand Trunk Road.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 128,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Sur Dynasty - Administration",
+    "question": "Who introduced the system of 'Sarais' along important roads?",
+    "options": [
+      "Sher Shah Suri",
+      "Akbar",
+      "Babur",
+      "Firoz Shah Tughlaq"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sher Shah established sarais (rest houses) at regular intervals for travellers and traders.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 129,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "Akbar abolished the pilgrimage tax in:",
+    "options": [
+      "1562",
+      "1563",
+      "1564",
+      "1572"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akbar abolished the pilgrimage tax in 1563 as part of his policy of religious tolerance.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 130,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "Akbar abolished the Jizya tax in:",
+    "options": [
+      "1562",
+      "1563",
+      "1564",
+      "1575"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akbar abolished Jizya in 1564, further reflecting his policy of religious accommodation.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 131,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "Who introduced the Mansabdari system?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Aurangzeb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akbar developed the Mansabdari system to organize the Mughal nobility and military administration.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 132,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "The term 'Mansab' literally means:",
+    "options": [
+      "Land",
+      "Rank or position",
+      "Tax",
+      "Army"
+    ],
+    "correctIndex": 1,
+    "explanation": "A mansab represented the rank or official position of a Mughal officer.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 133,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Literature",
+    "question": "Who wrote the 'Akbarnama'?",
+    "options": [
+      "Badauni",
+      "Abul Fazl",
+      "Faizi",
+      "Amir Khusrau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Abul Fazl wrote the Akbarnama, which includes an account of Akbar's reign.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 134,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Literature",
+    "question": "The 'Ain-i-Akbari' was written by:",
+    "options": [
+      "Abul Fazl",
+      "Abdul Qadir Badauni",
+      "Faizi",
+      "Nizamuddin Ahmad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ain-i-Akbari is the third volume of Abul Fazl's Akbarnama and provides detailed information about Mughal administration, society and economy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 135,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "Who started the policy of 'Sulh-i-Kul'?",
+    "options": [
+      "Babur",
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sulh-i-Kul, meaning 'universal peace', represented Akbar's policy of tolerance and peaceful coexistence among different religious communities.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 136,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "The Ibadat Khana was established by Akbar at:",
+    "options": [
+      "Agra",
+      "Delhi",
+      "Fatehpur Sikri",
+      "Lahore"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akbar established the Ibadat Khana at Fatehpur Sikri in 1575 for religious discussions.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 137,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Architecture",
+    "question": "Who among the following Mughal rulers started the construction of the Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shah Jahan commissioned the Taj Mahal at Agra in memory of his wife Mumtaz Mahal.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 138,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Architecture",
+    "question": "The Taj Mahal was built on the bank of the:",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Narmada",
+      "Godavari"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Taj Mahal stands on the southern bank of the Yamuna River at Agra.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 139,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Architecture",
+    "question": "Who constructed the Red Fort at Delhi?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shah Jahan constructed the Red Fort of Delhi after shifting his capital from Agra to Shahjahanabad.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 140,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Shah Jahan",
+    "question": "The Peacock Throne was commissioned by:",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shah Jahan commissioned the famous Peacock Throne, renowned for its elaborate decoration and precious stones.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 141,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Aurangzeb",
+    "question": "Who was the last major Mughal emperor?",
+    "options": [
+      "Shah Jahan",
+      "Aurangzeb",
+      "Bahadur Shah I",
+      "Muhammad Shah"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aurangzeb was the last Mughal ruler to exercise extensive imperial authority. He ruled from 1658 to 1707.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 142,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Aurangzeb",
+    "question": "Aurangzeb reimposed Jizya in:",
+    "options": [
+      "1665",
+      "1675",
+      "1679",
+      "1685"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aurangzeb reimposed the Jizya tax on non-Muslims in 1679.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 143,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Maratha Empire",
+    "question": "Who founded the Maratha kingdom?",
+    "options": [
+      "Sambhaji",
+      "Shivaji",
+      "Balaji Vishwanath",
+      "Baji Rao I"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shivaji Maharaj established an independent Maratha kingdom in western India.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 144,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Maratha Empire",
+    "question": "Shivaji was crowned at Raigad in:",
+    "options": [
+      "1664",
+      "1674",
+      "1680",
+      "1688"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shivaji was formally crowned Chhatrapati at Raigad in 1674.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 145,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Maratha Empire",
+    "question": "The council of eight ministers under Shivaji was known as:",
+    "options": [
+      "Navaratna",
+      "Ashtapradhan",
+      "Mansabdari",
+      "Chahalgani"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Ashtapradhan was Shivaji's council of eight principal ministers responsible for various departments.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 146,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Maratha Empire",
+    "question": "Who was the first Peshwa of the Maratha Empire?",
+    "options": [
+      "Balaji Vishwanath",
+      "Baji Rao I",
+      "Madhavrao I",
+      "Moropant Pingle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Balaji Vishwanath became Peshwa in 1713 and played an important role in consolidating Maratha power.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 147,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Battles of Panipat",
+    "question": "The Third Battle of Panipat was fought in:",
+    "options": [
+      "1757",
+      "1761",
+      "1764",
+      "1772"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Third Battle of Panipat was fought in 1761 between the Marathas and Ahmad Shah Abdali.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 148,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Medieval Indian Battles",
+    "question": "The Battle of Haldighati was fought between Maharana Pratap and:",
+    "options": [
+      "Babur",
+      "Akbar's forces",
+      "Aurangzeb's forces",
+      "Sher Shah Suri"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Battle of Haldighati was fought in 1576 between Maharana Pratap and Mughal forces led by Raja Man Singh.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 149,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Culture & Court",
+    "question": "Who was the famous musician in Akbar's court?",
+    "options": [
+      "Tansen",
+      "Baiju Bawra",
+      "Amir Khusrau",
+      "Swami Haridas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Miyan Tansen was one of the most celebrated musicians of Akbar's court and one of the Navaratnas.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 150,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Culture",
+    "question": "Who among the following was known as the 'Parrot of India'?",
+    "options": [
+      "Amir Khusrau",
+      "Abul Fazl",
+      "Tansen",
+      "Badauni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Amir Khusrau was a famous poet, musician and scholar of the Delhi Sultanate and is popularly known as the 'Parrot of India' (Tuti-i-Hind).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 386,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Historical Literature",
+    "question": "Who wrote The Discovery of India?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "B. R. Ambedkar",
+      "Sardar Patel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jawaharlal Nehru wrote The Discovery of India during his imprisonment in Ahmednagar Fort in the 1940s. It discusses India's history, culture and civilisation.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 387,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Historical Literature",
+    "question": "Who wrote India Wins Freedom?",
+    "options": [
+      "Maulana Abul Kalam Azad",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Sardar Patel"
+    ],
+    "correctIndex": 0,
+    "explanation": "India Wins Freedom is the autobiographical narrative of Maulana Abul Kalam Azad, a prominent leader of India's freedom movement.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 388,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Historical Literature",
+    "question": "Who wrote The Story of My Experiments with Truth?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "B. R. Ambedkar",
+      "Subhas Chandra Bose"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is the autobiography of Mahatma Gandhi, originally written in Gujarati covering his life from early childhood through to 1921.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 389,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Revolutionary Movement",
+    "question": "Who wrote Why I Am an Atheist?",
+    "options": [
+      "Bhagat Singh",
+      "Subhas Chandra Bose",
+      "Ram Prasad Bismil",
+      "Chandrashekhar Azad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Why I Am an Atheist is a famous essay written by revolutionary Bhagat Singh in 1930 while imprisoned in Lahore Central Jail.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 390,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Social Reform & Thinkers",
+    "question": "Who wrote Annihilation of Caste?",
+    "options": [
+      "Mahatma Gandhi",
+      "B. R. Ambedkar",
+      "Jyotiba Phule",
+      "Periyar E. V. Ramasamy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Annihilation of Caste is an undelivered speech written in 1936 by Dr. B. R. Ambedkar, critically examining the Hindu caste system.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 391,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Social Reform & Thinkers",
+    "question": "Who wrote Gulamgiri?",
+    "options": [
+      "Jyotirao Phule",
+      "B. R. Ambedkar",
+      "Periyar",
+      "Swami Dayanand Saraswati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gulamgiri (Slavery) was written by Jyotirao Phule in 1873 and strongly criticised caste oppression and social inequality.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 392,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Social Reform & Thinkers",
+    "question": "Who wrote Satyarth Prakash?",
+    "options": [
+      "Swami Vivekananda",
+      "Swami Dayanand Saraswati",
+      "Raja Rammohan Roy",
+      "Ramakrishna Paramahamsa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Satyarth Prakash is a major 1875 work by Swami Dayanand Saraswati, the founder of the Arya Samaj.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 393,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Historical Literature",
+    "question": "Who wrote Hind Swaraj?",
+    "options": [
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hind Swaraj was written by Mahatma Gandhi in 1909 and presents his views on Swaraj, modern civilisation and mechanisation.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 394,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Historical Literature",
+    "question": "Who wrote The Indian Struggle?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
+      "Bhagat Singh",
+      "Maulana Abul Kalam Azad"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Indian Struggle was written by Subhas Chandra Bose and covers the history of India's freedom movement from 1920 to 1942.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 395,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Economic Nationalism",
+    "question": "Who wrote Poverty and Un-British Rule in India?",
+    "options": [
+      "Dadabhai Naoroji",
+      "R. C. Dutt",
+      "Gopal Krishna Gokhale",
+      "M. G. Ranade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dadabhai Naoroji presented his famous 'Drain of Wealth' theory in this work, explaining the economic exploitation of India under British rule.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 396,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Economic Nationalism",
+    "question": "Who wrote The Economic History of India?",
+    "options": [
+      "R. C. Dutt",
+      "Dadabhai Naoroji",
+      "M. G. Ranade",
+      "D. R. Gadgil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Romesh Chunder Dutt (R. C. Dutt) wrote extensively on the economic impact and deindustrialization of India under British rule.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 399,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Ancient Historical Literature",
+    "question": "Who wrote Harshacharita?",
+    "options": [
+      "Kalidasa",
+      "Banabhatta",
+      "Vishakhadatta",
+      "Dandin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Harshacharita is a Sanskrit biography of King Harshavardhana, written by his court poet Banabhatta.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 400,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Ancient Historical Literature",
+    "question": "Who wrote Mudrarakshasa?",
+    "options": [
+      "Kalidasa",
+      "Vishakhadatta",
+      "Banabhatta",
+      "Bhavabhuti"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mudrarakshasa is a famous Sanskrit political drama by Vishakhadatta, dealing with the rise of Chandragupta Maurya and Chanakya's political strategy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 401,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Ancient Historical Literature",
+    "question": "Who wrote the famous Sanskrit work Arthashastra?",
+    "options": [
+      "Kalidasa",
+      "Kautilya",
+      "Banabhatta",
+      "Panini"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arthashastra is traditionally attributed to Kautilya (Chanakya/Vishnugupta) and deals with statecraft, administration, economy, diplomacy and military strategy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 402,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Historical Chronicles",
+    "question": "Who wrote Rajatarangini?",
+    "options": [
+      "Kalhana",
+      "Kalidasa",
+      "Banabhatta",
+      "Bilhana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rajatarangini was written by Kalhana in the 12th century and is an important historical chronicle of the kings of Kashmir.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 403,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Medieval Chronicles",
+    "question": "Prithviraj Raso is traditionally attributed to:",
+    "options": [
+      "Chand Bardai",
+      "Amir Khusrau",
+      "Kalhana",
+      "Tulsidas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prithviraj Raso is an epic poem composed in Brajbhasha, traditionally attributed to Chand Bardai, the court poet of Prithviraj Chauhan.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 410,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Literature",
+    "question": "Who wrote Tuzuk-i-Jahangiri?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tuzuk-i-Jahangiri (or Jahangirnama) is the autobiography of the Mughal Emperor Jahangir written in Persian.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 411,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Literature",
+    "question": "Humayun-Nama was written by:",
+    "options": [
+      "Gulbadan Begum",
+      "Jahanara Begum",
+      "Nur Jahan",
+      "Hamida Banu Begum"
+    ],
+    "correctIndex": 0,
+    "explanation": "Humayun-Nama was written by Gulbadan Begum, the daughter of Babur and sister of Humayun, at the request of Akbar.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 449,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Revolt of 1857 Literature",
+    "question": "Who wrote The Last Mughal?",
+    "options": [
+      "William Dalrymple",
+      "Salman Rushdie",
+      "Amitav Ghosh",
+      "Khushwant Singh"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Last Mughal by William Dalrymple examines the life of Bahadur Shah Zafar and the Indian Uprising of 1857 in Delhi.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 551,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Pushyabhuti Dynasty",
+    "question": "Who took the title of 'Sakalottarapathanatha'?",
+    "options": [
+      "Sasanka",
+      "Harshavardhana",
+      "Lakshmanasena",
+      "Dharmapala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Harshavardhana assumed the title Sakalottarapathanatha, meaning roughly 'Lord of the entire northern region,' reflecting his extensive political influence in North India.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 552,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Gupta Empire",
+    "question": "Who was the founder of the Gupta dynasty?",
+    "options": [
+      "Chandragupta I",
+      "Sri Gupta",
+      "Samudragupta",
+      "Ghatotkacha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sri Gupta is generally regarded as the founder of the Gupta dynasty. Chandragupta I greatly expanded the dynasty's power.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 553,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Gupta Empire",
+    "question": "Who is known as the 'Napoleon of India'?",
+    "options": [
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Skandagupta",
+      "Harshavardhana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Historian V. A. Smith famously described Samudragupta as the 'Napoleon of India' because of his extensive military conquests.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 554,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Gupta Inscriptions",
+    "question": "Which inscription provides information about the achievements of Samudragupta?",
+    "options": [
+      "Junagadh Inscription",
+      "Allahabad Pillar Inscription",
+      "Aihole Inscription",
+      "Hathigumpha Inscription"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Allahabad Pillar Inscription, composed by Harisena, gives detailed information about Samudragupta's conquests and achievements.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 555,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Gupta Inscriptions",
+    "question": "Who composed the Allahabad Pillar Inscription of Samudragupta?",
+    "options": [
+      "Banabhatta",
+      "Harisena",
+      "Kalidasa",
+      "Vishakhadatta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Harisena, a court poet and minister of Samudragupta, composed the famous inscription in classical Sanskrit.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 556,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Gupta Numismatics",
+    "question": "Which Gupta ruler issued a large number of gold coins?",
+    "options": [
+      "Samudragupta",
+      "Chandragupta II",
+      "Both A and B",
+      "Skandagupta only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Samudragupta and Chandragupta II issued numerous gold coins, which provide valuable information about Gupta economy, culture and royal titles.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 557,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Gupta Empire",
+    "question": "Chandragupta II is also known by which title?",
+    "options": [
+      "Vikramaditya",
+      "Devanampriya",
+      "Priyadarshi",
+      "Amitraghata"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chandragupta II is traditionally associated with the title Vikramaditya and is remembered as one of the greatest Gupta rulers.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 558,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Foreign Travellers",
+    "question": "Which Chinese traveller visited India during the reign of Chandragupta II?",
+    "options": [
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "I-Tsing",
+      "Al-Biruni"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Chinese Buddhist pilgrim Fa-Hien (Faxian) visited India during the reign of Chandragupta II.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 559,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Foreign Travellers",
+    "question": "Which Chinese traveller visited India during the reign of Harshavardhana?",
+    "options": [
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "I-Tsing",
+      "Sung Yun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hiuen Tsang (Xuanzang) spent several years in India during the reign of Harshavardhana and left valuable accounts of Indian society and politics.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 560,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Pushyabhuti Dynasty",
+    "question": "Who wrote Harshacharita?",
+    "options": [
+      "Kalidasa",
+      "Banabhatta",
+      "Harisena",
+      "Dandin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Harshacharita was written by Banabhatta, the court poet of Harshavardhana. It is an important source for the history of Harsha.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 561,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Pushyabhuti Dynasty",
+    "question": "What was the capital of Harshavardhana?",
+    "options": [
+      "Pataliputra",
+      "Kannauj",
+      "Ujjain",
+      "Thanesar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Harshavardhana initially ruled from Thanesar, but Kannauj became the principal centre and capital of his empire.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 562,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Empire",
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Bimbisara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chandragupta Maurya founded the Mauryan Empire around 322 BCE with the guidance of Chanakya/Kautilya.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 563,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Empire",
+    "question": "Who was the Greek ambassador at the court of Chandragupta Maurya?",
+    "options": [
+      "Megasthenes",
+      "Seleucus",
+      "Strabo",
+      "Ptolemy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Megasthenes was sent by Seleucus I Nicator to the court of Chandragupta Maurya. His account is known as Indica.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 564,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Empire",
+    "question": "Who succeeded Chandragupta Maurya?",
+    "options": [
+      "Ashoka",
+      "Bindusara",
+      "Dasharatha",
+      "Brihadratha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bindusara, son of Chandragupta Maurya, succeeded him and ruled before Ashoka.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 565,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Empire",
+    "question": "Which Mauryan ruler is associated with the title 'Amitraghata'?",
+    "options": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bindusara is associated with the title Amitraghata, meaning 'slayer of enemies' (or Amitrochates in Greek records).",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 566,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Empire - Ashoka",
+    "question": "Which event changed Ashoka's attitude towards warfare?",
+    "options": [
+      "Battle of Hydaspes",
+      "Kalinga War",
+      "Battle of Panipat",
+      "Battle of Tarain"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Kalinga War caused immense destruction and suffering. Ashoka was deeply affected and subsequently promoted Dhamma and non-violence.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 567,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Ashokan Inscriptions",
+    "question": "Which Ashokan inscription describes the Kalinga War?",
+    "options": [
+      "Major Rock Edict XIII",
+      "Major Rock Edict I",
+      "Pillar Edict VII",
+      "Minor Rock Edict I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Major Rock Edict XIII gives an account of the Kalinga War and Ashoka's remorse following the conflict.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 568,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Empire",
+    "question": "The capital of the Mauryan Empire was:",
+    "options": [
+      "Taxila",
+      "Pataliputra",
+      "Ujjain",
+      "Vaishali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pataliputra, located in present-day Bihar, was the principal capital of the Mauryan Empire.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 569,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Empire - Ashoka",
+    "question": "Which ruler is known for converting to Buddhism after the Kalinga War?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Bindusara",
+      "Samudragupta"
+    ],
+    "correctIndex": 1,
+    "explanation": "After the Kalinga War, Ashoka increasingly embraced Buddhism and promoted moral governance through his policy of Dhamma.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 570,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Mauryan Art & Architecture",
+    "question": "The Lion Capital at Sarnath was erected during the reign of:",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Kanishka",
+      "Harsha"
+    ],
+    "correctIndex": 1,
+    "explanation": "The famous Lion Capital of Sarnath was erected under Ashoka. Its four-lion design forms the basis of India's State Emblem.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 571,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Kushana Dynasty",
+    "question": "Which dynasty was founded by Kanishka's predecessors and became famous for its Buddhist patronage?",
+    "options": [
+      "Kushana",
+      "Gupta",
+      "Satavahana",
+      "Chola"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Kushana dynasty, particularly under Kanishka, played a major role in the spread of Buddhism and the development of Gandhara art.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 572,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Kushana Dynasty",
+    "question": "Kanishka belonged to which dynasty?",
+    "options": [
+      "Gupta",
+      "Kushana",
+      "Maurya",
+      "Satavahana"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kanishka was the most famous ruler of the Kushana dynasty and is strongly associated with the expansion of Buddhism.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 573,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Buddhism & Councils",
+    "question": "The Fourth Buddhist Council was held during the reign of:",
+    "options": [
+      "Ashoka",
+      "Kanishka",
+      "Harsha",
+      "Chandragupta Maurya"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Fourth Buddhist Council is traditionally associated with Kanishka and was held at Kundalvana in Kashmir.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 574,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Ancient Indian Art",
+    "question": "Gandhara School of Art developed mainly under the patronage of the:",
+    "options": [
+      "Kushanas",
+      "Guptas",
+      "Mauryas",
+      "Cholas"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Gandhara School flourished particularly under the Kushanas and shows strong Greco-Roman influence in Buddhist sculpture.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 575,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "Ancient Indian Art",
+    "question": "The Mathura School of Art is mainly associated with:",
+    "options": [
+      "Red sandstone",
+      "White marble",
+      "Black granite",
+      "Bronze"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Mathura School is particularly noted for sculptures made from the distinctive spotted red sandstone of the region.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 576,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "South Indian History - Sangam Era",
+    "question": "Which dynasty is associated with the development of the Sangam literature?",
+    "options": [
+      "Chola, Chera and Pandya",
+      "Gupta, Maurya and Kushana",
+      "Pala, Sena and Pratihara",
+      "Mughal, Sur and Lodi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sangam literature developed in ancient Tamilakam and is closely associated with the Chera, Chola and Pandya kingdoms.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 577,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "South Indian Dynasties - Cholas",
+    "question": "Which dynasty built the Brihadisvara Temple at Thanjavur?",
+    "options": [
+      "Pallava",
+      "Chola",
+      "Pandya",
+      "Chera"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Brihadisvara Temple was built by Rajaraja Chola I in the early 11th century.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 578,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "South Indian Dynasties - Cholas",
+    "question": "Who built the Brihadisvara Temple at Thanjavur?",
+    "options": [
+      "Rajendra Chola I",
+      "Rajaraja Chola I",
+      "Kulottunga Chola I",
+      "Vijayalaya Chola"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rajaraja Chola I constructed the magnificent Brihadisvara Temple, one of the finest examples of Dravidian Chola architecture.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 579,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "South Indian Dynasties - Pallavas",
+    "question": "The Shore Temple at Mahabalipuram was built during the reign of:",
+    "options": [
+      "Narasimhavarman II",
+      "Rajaraja Chola I",
+      "Pulakeshin II",
+      "Rajendra Chola I"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Shore Temple at Mahabalipuram was constructed during the reign of Narasimhavarman II (Rajasimha) of the Pallava dynasty.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 580,
+    "subject": "History",
+    "topic": "Ancient Indian History",
+    "subtopic": "South Indian Dynasties - Rashtrakutas",
+    "question": "The Kailasanatha Temple at Ellora was built by the:",
+    "options": [
+      "Pallavas",
+      "Rashtrakutas",
+      "Cholas",
+      "Chalukyas"
+    ],
+    "correctIndex": 1,
+    "explanation": "The magnificent Kailasanatha (Kailasa) rock-cut Temple at Ellora was commissioned by Rashtrakuta king Krishna I.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 581,
+    "subject": "History",
+    "topic": "Early Medieval Indian History",
+    "subtopic": "Pala Dynasty",
+    "question": "Who founded the Pala dynasty in Bengal?",
+    "options": [
+      "Dharmapala",
+      "Gopala",
+      "Devapala",
+      "Mahipala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gopala founded the Pala dynasty in Bengal in the 8th century (c. 750 CE). He was reportedly elected by local chiefs amid political disorder (matsyanyaya).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 582,
+    "subject": "History",
+    "topic": "Early Medieval Indian History",
+    "subtopic": "Pala Dynasty",
+    "question": "Which Pala ruler founded Vikramashila University?",
+    "options": [
+      "Gopala",
+      "Dharmapala",
+      "Devapala",
+      "Mahipala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dharmapala is credited with founding Vikramashila Mahavihara, an important centre of Buddhist learning in modern Bihar.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 583,
+    "subject": "History",
+    "topic": "Early Medieval Indian History",
+    "subtopic": "Gauda Kingdom",
+    "question": "Who was known as the 'Lord of Gauda'?",
+    "options": [
+      "Dharmapala",
+      "Sasanka",
+      "Gopala",
+      "Devapala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sasanka (Shashanka) was an important ruler of Gauda in Bengal and is regarded as one of the earliest historically known independent rulers of Bengal.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 584,
+    "subject": "History",
+    "topic": "Early Medieval Indian History",
+    "subtopic": "Gauda Kingdom",
+    "question": "Who was the first independent ruler of Gauda?",
+    "options": [
+      "Sasanka",
+      "Gopala",
+      "Dharmapala",
+      "Lakshmanasena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sasanka established a powerful kingdom centred on Gauda in the early 7th century CE.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 585,
+    "subject": "History",
+    "topic": "Early Medieval Indian History",
+    "subtopic": "Sena Dynasty",
+    "question": "Who founded the Sena dynasty in Bengal?",
+    "options": [
+      "Ballalasena",
+      "Samantasena",
+      "Lakshmanasena",
+      "Vijayasena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Samantasena is regarded as the founder of the Sena dynasty, while Vijayasena greatly expanded its power across Bengal.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 586,
+    "subject": "History",
+    "topic": "Early Medieval Indian History",
+    "subtopic": "Sena Dynasty",
+    "question": "Who was the last major ruler of the Sena dynasty in Bengal?",
+    "options": [
+      "Vijayasena",
+      "Ballalasena",
+      "Lakshmanasena",
+      "Samantasena"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lakshmanasena was the last major Sena ruler. His reign witnessed the invasion of Bengal by Bakhtiyar Khalji around 1204 CE.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 587,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who founded the Slave Dynasty in India?",
+    "options": [
+      "Qutb-ud-din Aibak",
+      "Iltutmish",
+      "Balban",
+      "Razia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qutb-ud-din Aibak founded the Mamluk or Slave Dynasty in 1206 after the death of Muhammad Ghori.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 588,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who is regarded as the real founder of the Delhi Sultanate?",
+    "options": [
+      "Qutb-ud-din Aibak",
+      "Iltutmish",
+      "Balban",
+      "Alauddin Khalji"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iltutmish consolidated the Delhi Sultanate, organised its administration and is often regarded as its real founder/consolidator.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 589,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Slave Dynasty",
+    "question": "Who was the first woman ruler of the Delhi Sultanate?",
+    "options": [
+      "Razia Sultan",
+      "Nur Jahan",
+      "Chand Bibi",
+      "Rani Durgavati"
+    ],
+    "correctIndex": 0,
+    "explanation": "Razia Sultan, daughter of Iltutmish, ruled Delhi from 1236 to 1240 and was the first and only woman to sit on the throne of the Delhi Sultanate.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 590,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Tughlaq Dynasty",
+    "question": "Who introduced the system of token currency in the Delhi Sultanate?",
+    "options": [
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Iltutmish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Muhammad bin Tughlaq introduced token copper currency intended to circulate at the value of silver coins. The experiment failed largely because of widespread counterfeiting.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 591,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Khilji Dynasty",
+    "question": "Who introduced strict market control measures in the Delhi Sultanate?",
+    "options": [
+      "Balban",
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alauddin Khalji introduced extensive market regulations, including price controls and measures against hoarding, particularly to maintain a large army at manageable cost.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 592,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Tughlaq Dynasty",
+    "question": "Who shifted the capital from Delhi to Daulatabad?",
+    "options": [
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Sikandar Lodi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Muhammad bin Tughlaq ordered the transfer of the capital from Delhi to Daulatabad (Devagiri), although the policy was later reversed.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 593,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Tughlaq Dynasty",
+    "question": "Who founded the city of Tughlaqabad?",
+    "options": [
+      "Ghiyasuddin Tughlaq",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Balban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ghiyasuddin Tughlaq, founder of the Tughlaq dynasty, established the fortified city of Tughlaqabad near Delhi.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 594,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Lodi Dynasty",
+    "question": "Who founded the Lodi dynasty?",
+    "options": [
+      "Sikandar Lodi",
+      "Bahlol Lodi",
+      "Ibrahim Lodi",
+      "Daulat Khan Lodi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bahlol Lodi founded the Lodi dynasty in 1451. It was the first Afghan dynasty to rule the Delhi Sultanate.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 595,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate - Lodi Dynasty",
+    "question": "Who was the last Sultan of the Delhi Sultanate?",
+    "options": [
+      "Sikandar Lodi",
+      "Ibrahim Lodi",
+      "Bahlol Lodi",
+      "Daulat Khan Lodi"
+    ],
+       "correctIndex": 1,
+    "explanation": "Ibrahim Lodi was defeated by Babur in the First Battle of Panipat in 1526, marking the end of the Delhi Sultanate and the beginning of Mughal rule.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 596,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Battles of Panipat",
+    "question": "The First Battle of Panipat was fought between:",
+    "options": [
+      "Babur and Ibrahim Lodi",
+      "Akbar and Hemu",
+      "Babur and Rana Sanga",
+      "Humayun and Sher Shah"
+    ],
+    "correctIndex": 0,
+    "explanation": "The First Battle of Panipat (1526) was fought between Babur and Ibrahim Lodi. Babur's victory established Mughal rule in India.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 597,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Babur",
+    "question": "Who founded the Mughal Empire in India?",
+    "options": [
+      "Humayun",
+      "Babur",
+      "Akbar",
+      "Sher Shah Suri"
+    ],
+    "correctIndex": 1,
+    "explanation": "Babur founded the Mughal Empire after defeating Ibrahim Lodi at the First Battle of Panipat in 1526.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 598,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Sur Dynasty - Administration",
+    "question": "Who introduced the silver coin 'Rupiya' in medieval India?",
+    "options": [
+      "Akbar",
+      "Sher Shah Suri",
+      "Babur",
+      "Alauddin Khalji"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sher Shah Suri introduced a standard silver coin known as the Rupiya, which became an important precursor to the modern rupee.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 599,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Sur Dynasty - Administration",
+    "question": "Who built the Grand Trunk Road in its major medieval form?",
+    "options": [
+      "Akbar",
+      "Sher Shah Suri",
+      "Babur",
+      "Jahangir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sher Shah Suri improved and extended the major road network connecting Bengal with the northwestern parts of the subcontinent. The route later became known as the Grand Trunk Road.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 600,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Empire - Akbar",
+    "question": "Who introduced the Mansabdari system in the Mughal Empire?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Aurangzeb"
+    ],
+    "correctIndex": 2,
+    "explanation": "Akbar organised the Mughal nobility through the Mansabdari system, which assigned officials numerical ranks and regulated their military and administrative responsibilities.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 701,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "American Civil Rights Movement",
+    "question": "'I have a dream' Name the civil rights leader.",
+    "options": [
+      "Rosa Parks",
+      "Martin Luther King Jr.",
+      "Nelson Mandela",
+      "Desmond Tutu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Martin Luther King Jr. delivered his famous 'I Have a Dream' speech during the March on Washington for Jobs and Freedom on 28 August 1963.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 702,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Anti-Apartheid Movement",
+    "question": "Who is known as the 'Father of the Nation' of South Africa?",
+    "options": [
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "F. W. de Klerk",
+      "Thabo Mbeki"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelson Mandela was a key leader in the struggle against apartheid and became South Africa's first Black president in 1994.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 703,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Anti-Apartheid Movement",
+    "question": "Who was the first Black President of South Africa?",
+    "options": [
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "Thabo Mbeki",
+      "Jacob Zuma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nelson Mandela became President of South Africa in 1994 after the country's first fully democratic non-racial elections.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 704,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "American Revolution",
+    "question": "Who is associated with the slogan 'Give me liberty, or give me death!'?",
+    "options": [
+      "Abraham Lincoln",
+      "Patrick Henry",
+      "George Washington",
+      "Thomas Jefferson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patrick Henry delivered this famous speech in 1775 to the Second Virginia Convention in support of the American colonial struggle against British rule.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 705,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "American Civil War",
+    "question": "Who said, 'Government of the people, by the people, for the people'?",
+    "options": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "Benjamin Franklin"
+    ],
+    "correctIndex": 1,
+    "explanation": "This famous phrase occurs in Abraham Lincoln's Gettysburg Address, delivered on 19 November 1863.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 706,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "American Revolution",
+    "question": "Who is known as the 'Father of the American Revolution'?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "Samuel Adams"
+    ],
+    "correctIndex": 0,
+    "explanation": "George Washington led the Continental Army during the American Revolutionary War and later became the first U.S. President.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 707,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "American Revolution",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Washington served as the first President of the United States from 1789 to 1797.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 708,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "American Revolution",
+    "question": "Who wrote the American Declaration of Independence?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "James Madison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thomas Jefferson was the principal drafter of the Declaration of Independence, adopted in 1776.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 709,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "American Revolution",
+    "question": "The American Declaration of Independence was adopted in:",
+    "options": [
+      "1774",
+      "1775",
+      "1776",
+      "1781"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Declaration of Independence was adopted by the Continental Congress on 4 July 1776.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 710,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "French Revolution",
+    "question": "The French Revolution began in:",
+    "options": [
+      "1776",
+      "1789",
+      "1799",
+      "1815"
+    ],
+    "correctIndex": 1,
+    "explanation": "The French Revolution began in 1789 and fundamentally transformed French political and social structures.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 711,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "French Revolution",
+    "question": "Which event is generally regarded as the beginning of the French Revolution?",
+    "options": [
+      "Execution of Louis XVI",
+      "Storming of the Bastille",
+      "Reign of Terror",
+      "Battle of Waterloo"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Storming of the Bastille on 14 July 1789 became a powerful symbol of the French Revolution.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 712,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "French Revolution",
+    "question": "Who was the king of France at the beginning of the French Revolution?",
+    "options": [
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI",
+      "Charles X"
+    ],
+    "correctIndex": 2,
+    "explanation": "Louis XVI was the French king when the Revolution began. He was executed by guillotine in 1793.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 713,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Napoleonic Era",
+    "question": "Who was known as the 'Little Corporal'?",
+    "options": [
+      "Napoleon Bonaparte",
+      "Louis XVI",
+      "Bismarck",
+      "Garibaldi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Napoleon Bonaparte was popularly known by the affectionate nickname 'The Little Corporal' (le Petit Caporal).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 714,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Napoleonic Era",
+    "question": "The Battle of Waterloo was fought in:",
+    "options": [
+      "1805",
+      "1812",
+      "1815",
+      "1821"
+    ],
+    "correctIndex": 2,
+    "explanation": "Napoleon was decisively defeated at the Battle of Waterloo on 18 June 1815, ending his rule during the Hundred Days.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 715,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Napoleonic Era",
+    "question": "Who defeated Napoleon at the Battle of Waterloo?",
+    "options": [
+      "Duke of Wellington",
+      "Otto von Bismarck",
+      "Giuseppe Garibaldi",
+      "Tsar Alexander I"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arthur Wellesley, Duke of Wellington, commanded the Allied army that defeated Napoleon at Waterloo, alongside Prussian forces under Blücher.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 716,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Interwar Germany & Nazism",
+    "question": "Who founded the Nazi Party's dictatorship in Germany?",
+    "options": [
+      "Adolf Hitler",
+      "Joseph Stalin",
+      "Benito Mussolini",
+      "Kaiser Wilhelm II"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adolf Hitler became Chancellor of Germany in 1933 and established a totalitarian Nazi dictatorship.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 717,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Unification of Germany",
+    "question": "Who was known as the 'Iron Man' of Germany?",
+    "options": [
+      "Adolf Hitler",
+      "Otto von Bismarck",
+      "Kaiser Wilhelm II",
+      "Friedrich Engels"
+    ],
+    "correctIndex": 1,
+    "explanation": "Otto von Bismarck was known as the 'Iron Chancellor' and played the central role in German unification through his policy of 'Blood and Iron'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 718,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Unification of Germany",
+    "question": "Who unified Germany in the 19th century?",
+    "options": [
+      "Napoleon III",
+      "Otto von Bismarck",
+      "Garibaldi",
+      "Metternich"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bismarck used diplomacy and three decisive wars to achieve the unification of Germany under Prussian leadership in 1871.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 719,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Unification of Italy",
+    "question": "Who is associated with the unification of Italy?",
+    "options": [
+      "Garibaldi",
+      "Bismarck",
+      "Lenin",
+      "Robespierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Giuseppe Garibaldi was one of the major military leaders of Italian unification (Risorgimento), along with Cavour and Mazzini.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 720,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Unification of Italy",
+    "question": "Who founded the Young Italy movement?",
+    "options": [
+      "Giuseppe Mazzini",
+      "Giuseppe Garibaldi",
+      "Cavour",
+      "Victor Emmanuel II"
+    ],
+    "correctIndex": 0,
+    "explanation": "Giuseppe Mazzini founded Young Italy (Giovine Italia) in 1831 to promote Italian national unity and independence.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 721,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Unification of Germany",
+    "question": "Who was the first emperor of unified Germany?",
+    "options": [
+      "Otto von Bismarck",
+      "Wilhelm I",
+      "Wilhelm II",
+      "Frederick III"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wilhelm I of Prussia was proclaimed German Emperor (Kaiser) at Versailles in 1871 after German unification.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 722,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Russian Revolution",
+    "question": "The Russian Revolution of 1917 resulted in the rise of:",
+    "options": [
+      "Fascists",
+      "Bolsheviks",
+      "Nazis",
+      "Liberals"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Bolsheviks, led by Vladimir Lenin, seized power during the October Revolution of 1917, establishing Soviet rule.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 723,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Russian Revolution",
+    "question": "Who led the Bolshevik Revolution of 1917?",
+    "options": [
+      "Joseph Stalin",
+      "Vladimir Lenin",
+      "Leon Trotsky only",
+      "Karl Marx"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vladimir Lenin was the principal leader of the Bolsheviks during the October Revolution of 1917.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 724,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Political Philosophies & Socialism",
+    "question": "Who is known as the founder of scientific socialism?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "John Locke",
+      "Rousseau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Karl Marx, along with Friedrich Engels, developed the theory of scientific socialism based on historical materialism.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 725,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Political Philosophies & Socialism",
+    "question": "Who co-authored The Communist Manifesto with Karl Marx?",
+    "options": [
+      "Lenin",
+      "Friedrich Engels",
+      "Stalin",
+      "Trotsky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Karl Marx and Friedrich Engels published The Communist Manifesto in 1848.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 726,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Political Philosophies & Socialism",
+    "question": "Who wrote Das Kapital?",
+    "options": [
+      "Karl Marx",
+      "Friedrich Engels",
+      "Lenin",
+      "Adam Smith"
+    ],
+    "correctIndex": 0,
+    "explanation": "Karl Marx wrote Das Kapital, a foundational critique of political economy and capitalist production.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 727,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Economic Thought",
+    "question": "Who wrote The Wealth of Nations?",
+    "options": [
+      "Karl Marx",
+      "Adam Smith",
+      "David Ricardo",
+      "John Maynard Keynes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adam Smith published An Inquiry into the Nature and Causes of the Wealth of Nations in 1776.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 728,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Economic Thought",
+    "question": "Who is known as the 'Father of Economics'?",
+    "options": [
+      "Adam Smith",
+      "Karl Marx",
+      "Keynes",
+      "Alfred Marshall"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adam Smith is widely regarded as the Father of Economics, particularly for his foundational work in classical free-market economics.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 729,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Classical Greek Philosophy",
+    "question": "Who wrote The Republic?",
+    "options": [
+      "Aristotle",
+      "Plato",
+      "Socrates",
+      "Herodotus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plato wrote The Republic, a famous philosophical dialogue discussing justice, politics, education and the ideal state.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 730,
+    "subject": "History",
+    "topic": "World History",
+    "subtopic": "Ancient World History",
+    "question": "Who was the teacher of Alexander the Great?",
+    "options": [
+      "Socrates",
+      "Aristotle",
+      "Plato",
+      "Pythagoras"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aristotle was the personal tutor of the young Alexander of Macedon, later known as Alexander the Great.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 783,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Architecture",
+    "question": "Which monument is known as the 'Symbol of Love'?",
+    "options": [
+      "Qutub Minar",
+      "Taj Mahal",
+      "Red Fort",
+      "Sanchi Stupa"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Taj Mahal at Agra was commissioned by Mughal emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 784,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Mughal Architecture",
+    "question": "Who built the Taj Mahal?",
+    "options": [
+      "Akbar",
+      "Shah Jahan",
+      "Jahangir",
+      "Aurangzeb"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shah Jahan commissioned the Taj Mahal in the 17th century.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 785,
+    "subject": "History",
+    "topic": "Medieval Indian History",
+    "subtopic": "Delhi Sultanate Architecture",
+    "question": "The Qutub Minar is located in:",
+    "options": [
+      "Agra",
+      "Delhi",
+      "Jaipur",
+      "Lucknow"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Qutub Minar is located in the Mehrauli area of Delhi and was begun by Qutb-ud-din Aibak.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 951,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "National Anthems & Symbols",
+    "question": "Who wrote the national anthems of two countries?",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Kazi Nazrul Islam",
+      "Muhammad Iqbal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana,' the National Anthem of India, and 'Amar Sonar Bangla,' the National Anthem of Bangladesh.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 952,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "National Anthems & Symbols",
+    "question": "'Jana Gana Mana' was originally composed in which language?",
+    "options": [
+      "Hindi",
+      "Bengali",
+      "Sanskrit",
+      "Urdu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jana Gana Mana was composed by Rabindranath Tagore in Bengali, using a highly Sanskritised form of the language (Sadhu Bhasha).",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 953,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "National Song & Symbols",
+    "question": "Who wrote 'Vande Mataram'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Sarat Chandra Chattopadhyay",
+      "Swami Vivekananda"
+    ],
+       "correctIndex": 1,
+    "explanation": "Bankim Chandra Chattopadhyay wrote Vande Mataram in his 1882 novel Anandamath.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 954,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "National Song & Symbols",
+    "question": "'Vande Mataram' was first published in:",
+    "options": [
+      "Gitanjali",
+      "Anandamath",
+      "Durgeshnandini",
+      "Kapalkundala"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vande Mataram appeared in Anandamath, published in 1882.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 955,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Freedom Movement Personalities",
+    "question": "Who is known as the 'Nightingale of India'?",
+    "options": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Aruna Asaf Ali",
+      "Vijayalakshmi Pandit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sarojini Naidu was popularly known as the 'Nightingale of India' (Bharat Kokila) because of her lyrical poetry.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 956,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Moderate Phase of Congress",
+    "question": "Who is known as the 'Grand Old Man of India'?",
+    "options": [
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji",
+      "Bal Gangadhar Tilak",
+      "Surendranath Banerjee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dadabhai Naoroji is popularly known as the Grand Old Man of India.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 957,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Historic Slogans",
+    "question": "Who gave the slogan 'Swaraj is my birthright and I shall have it'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak",
+      "Subhas Chandra Bose",
+      "Lala Lajpat Rai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bal Gangadhar Tilak gave this famous slogan during the extremist phase of the Indian national movement.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 958,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Quit India Movement",
+    "question": "Who gave the slogan 'Do or Die'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Sardar Patel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mahatma Gandhi gave the famous 'Do or Die' (Karo ya Maro) call at the Gowalia Tank Maidan during the Quit India Movement of 1942.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 959,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Historic Slogans",
+    "question": "Who gave the slogan 'Give me blood, and I will give you freedom'?",
+    "options": [
+      "Bhagat Singh",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subhas Chandra Bose used this famous slogan in Burma in 1944 to inspire Indians to join the Indian National Army.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 960,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Indian National Army (INA)",
+    "question": "Who founded the Indian National Army (INA) in its initial form?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Mohan Singh",
+      "Rash Behari Bose",
+      "Bhagat Singh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Captain Mohan Singh initially organized the Indian National Army in Southeast Asia in 1942. Subhas Chandra Bose later reorganized and led it.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 961,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Indian National Congress",
+    "question": "Who was the first President of the Indian National Congress?",
+    "options": [
+      "Dadabhai Naoroji",
+      "W. C. Bonnerjee",
+      "A. O. Hume",
+      "Surendranath Banerjee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Womesh Chandra Bonnerjee presided over the first session of the Indian National Congress at Bombay in December 1885.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 962,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Indian National Congress",
+    "question": "Who was the first woman President of the Indian National Congress?",
+    "options": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Vijayalakshmi Pandit",
+      "Sucheta Kripalani"
+    ],
+    "correctIndex": 1,
+    "explanation": "Annie Besant became the first woman President of the Indian National Congress in 1917 at the Calcutta session.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 963,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Indian National Congress",
+    "question": "Who was the first Indian woman President of the Indian National Congress?",
+    "options": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Sucheta Kripalani",
+      "Aruna Asaf Ali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sarojini Naidu became the first Indian woman to preside over the INC in 1925 at the Kanpur session.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 964,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Indian National Congress",
+    "question": "The first session of the Indian National Congress was held at:",
+    "options": [
+      "Calcutta",
+      "Bombay",
+      "Madras",
+      "Allahabad"
+    ],
+    "correctIndex": 1,
+    "explanation": "The first INC session was held at Gokuldas Tejpal Sanskrit College in Bombay in December 1885, attended by 72 delegates.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 965,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Socio-Religious Reform Movements",
+    "question": "Who founded the Brahmo Samaj?",
+    "options": [
+      "Swami Dayanand Saraswati",
+      "Raja Rammohan Roy",
+      "Swami Vivekananda",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raja Rammohan Roy founded the Brahmo Sabha in 1828, later known as the Brahmo Samaj.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 966,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Socio-Religious Reform Movements",
+    "question": "Who founded the Arya Samaj?",
+    "options": [
+      "Swami Vivekananda",
+      "Swami Dayanand Saraswati",
+      "Ramakrishna Paramahamsa",
+      "Raja Rammohan Roy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Swami Dayanand Saraswati founded the Arya Samaj in 1875 in Bombay.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 967,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Socio-Religious Reform Movements",
+    "question": "Who founded the Ramakrishna Mission?",
+    "options": [
+      "Ramakrishna Paramahamsa",
+      "Swami Vivekananda",
+      "Swami Dayanand Saraswati",
+      "Keshab Chandra Sen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Swami Vivekananda founded the Ramakrishna Mission in 1897 to propagate the teachings of Sri Ramakrishna.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 968,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Socio-Religious Reform Movements",
+    "question": "Who was the founder of the Aligarh Movement?",
+    "options": [
+      "Sir Syed Ahmad Khan",
+      "Badruddin Tyabji",
+      "Maulana Azad",
+      "Muhammad Iqbal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sir Syed Ahmad Khan initiated the Aligarh Movement for modern scientific education and social reform among Indian Muslims.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 969,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "British Social Legislation",
+    "question": "Which Act abolished Sati in British India?",
+    "options": [
+      "Charter Act, 1813",
+      "Bengal Sati Regulation, 1829",
+      "Government of India Act, 1858",
+      "Indian Councils Act, 1861"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lord William Bentinck abolished Sati through the Bengal Sati Regulation XVII of 1829.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 970,
+    "subject": "History",
+    "topic": "Modern Indian History",
+    "subtopic": "Governors-General & Viceroys",
+    "question": "Who was the Governor-General of India when Sati was abolished?",
+    "options": [
+      "Lord Cornwallis",
+      "Lord William Bentinck",
+      "Lord Dalhousie",
+      "Lord Canning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lord William Bentinck was Governor-General when Sati was officially abolished in 1829.",
+    "difficulty": "Easy"
+  }
+]
