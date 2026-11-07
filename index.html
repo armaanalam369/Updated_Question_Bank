@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wise Choice Question Bank & Test Portal</title>
+  <meta name="theme-color" content="#2563eb">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="brand">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+      </svg>
+      <span>Wise Choice Portal</span>
+    </div>
+    
+    <div class="header-controls">
+      <div id="timerDisplay" class="timer-badge">00:00</div>
+      <button id="btnSettings" class="btn">Settings</button>
+      <button id="btnEndTest" class="btn btn-danger">End Test</button>
+    </div>
+  </header>
+
+  <!-- Main View Workspace -->
+  <main class="main-layout" id="examWorkspace">
+    <!-- Question Section -->
+    <section class="workspace">
+      <div class="card">
+        <div class="question-header">
+          <span id="qTopicBadge">Topic: Loading...</span>
+          <span id="qCounter">Q 1 of 50</span>
+        </div>
+
+        <div class="q-text" id="qText">Loading question prompt...</div>
+
+        <div class="options-grid" id="optionsContainer">
+          <!-- Populated dynamically -->
+        </div>
+
+        <div id="explanationContainer" class="explanation-card hidden">
+          <!-- Shown in Practice/Review mode -->
+        </div>
+      </div>
+
+      <!-- Footer Action Controls -->
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+        <button id="btnPrev" class="btn">Previous</button>
+        <div style="display: flex; gap: 0.5rem;">
+          <button id="btnMark" class="btn">Mark for Review</button>
+          <button id="btnClear" class="btn">Clear Selection</button>
+        </div>
+        <button id="btnNext" class="btn btn-primary">Save & Next</button>
+      </div>
+    </section>
+
+    <!-- Side Palette -->
+    <aside class="sidebar">
+      <h4 style="font-size: 1rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">Question Palette</h4>
+      
+      <div class="palette-legend">
+        <div class="legend-item"><div class="legend-dot" style="background:var(--color-unvisited);"></div> Unvisited</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--color-unanswered);"></div> Unanswered</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--color-answered);"></div> Answered</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--color-marked);"></div> Marked</div>
+        <div class="legend-item" style="grid-column: span 2;"><div class="legend-dot" style="background:var(--color-ans-marked);"></div> Ans & Marked for Review</div>
+      </div>
+
+      <div class="palette-grid" id="paletteGrid">
+        <!-- Palette tiles dynamically generated -->
+      </div>
+    </aside>
+  </main>
+
+  <!-- Analytics / Result View (Hidden Initially) -->
+  <main class="main-layout hidden" id="resultsWorkspace">
+    <div class="workspace">
+      <div class="card">
+        <h2 style="margin-bottom: 1rem; color: var(--primary);">Scorecard & Performance Analytics</h2>
+        
+        <div class="results-grid">
+          <div class="metric-card">
+            <div>Score Obtained</div>
+            <div class="metric-val" id="metricScore">0.00</div>
+          </div>
+          <div class="metric-card">
+            <div>Accuracy</div>
+            <div class="metric-val" id="metricAccuracy">0%</div>
+          </div>
+          <div class="metric-card">
+            <div>Time Elapsed</div>
+            <div class="metric-val" id="metricTime">00:00</div>
+          </div>
+          <div class="metric-card">
+            <div>Attempted</div>
+            <div class="metric-val" id="metricAttempted">0 / 0</div>
+          </div>
+        </div>
+
+        <h3 style="margin-top: 1.5rem; margin-bottom: 0.5rem;">Topic-wise Diagnostic Breakdown</h3>
+        <div style="overflow-x: auto;">
+          <table class="analytics-table" id="topicAnalysisTable">
+            <thead>
+              <tr>
+                <th>Topic</th>
+                <th>Total Questions</th>
+                <th>Correct</th>
+                <th>Incorrect</th>
+                <th>Accuracy</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Dynamic Rows -->
+            </tbody>
+          </table>
+        </div>
+
+        <div style="display: flex; gap: 0.75rem; margin-top: 1.5rem;">
+          <button id="btnReviewPractice" class="btn btn-primary">Review All Solutions</button>
+          <button id="btnRetake" class="btn">Retake / Reconfigure Test</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Settings Modal Dialog -->
+  <div class="modal-overlay hidden" id="settingsModal">
+    <div class="modal">
+      <div class="modal-header">
+        <h3>Portal Configuration</h3>
+        <button id="btnCloseSettings" class="btn">&times;</button>
+      </div>
+
+      <div class="form-group">
+        <label>Portal Execution Mode</label>
+        <select id="settingMode">
+          <option value="exam">Exam Simulation (Timed, Palette Status)</option>
+          <option value="practice">Quiz Mode (Instant Feedback & Explanations)</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label>Timer Type</label>
+          <select id="settingTimerType">
+            <option value="global">Countdown Exam Timer</option>
+            <option value="stopwatch">Untimed Stopwatch</option>
+            <option value="none">No Timer</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Duration (Minutes)</label>
+          <input type="number" id="settingDuration" min="1" max="180" value="30">
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label>Marks for Correct</label>
+          <input type="number" step="0.25" id="settingMarksCorrect" value="1.0">
+        </div>
+        <div class="form-group">
+          <label>Negative Marking</label>
+          <input type="number" step="0.05" id="settingNegativeMarks" value="0.25">
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Topic Selection</label>
+        <select id="settingTopicFilter">
+          <option value="all">All Topics (Full Bank)</option>
+          <!-- Dynamic options loaded from data.js -->
+        </select>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label>Shuffle Questions</label>
+          <select id="settingShuffleQ">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Visual Theme</label>
+          <select id="settingTheme">
+            <option value="light">Light Mode</option>
+            <option value="dark">Dark Slate</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Display Font Scale</label>
+        <select id="settingFontSize">
+          <option value="standard">Standard (16px)</option>
+          <option value="large">Large (18px)</option>
+        </select>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; margin-top: 1.5rem;">
+        <button id="btnClearStorage" class="btn btn-danger">Reset State</button>
+        <button id="btnSaveSettings" class="btn btn-primary">Apply & Restart</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

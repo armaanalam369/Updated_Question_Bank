@@ -1,0 +1,16 @@
+{
+  "name": "Wise Choice Question Bank & Test Portal",
+  "short_name": "WiseChoice",
+  "description": "Progressive Web App Question Bank and Exam Simulation Portal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232563eb'/><path d='M30 50 L45 65 L72 35' fill='none' stroke='white' stroke-width='10' stroke-linecap='round'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
